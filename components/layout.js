@@ -9,7 +9,7 @@ export default function Layout( { children, home }) {
     </Head>
     <header>
     <nav>
-      <a href="https://www.santarosa.edu">Visit SRJC</a>
+      <a href="https://www.santarosa.edu">SRJC CS55.13</a>
     </nav>
     </header>
     <main>
@@ -24,7 +24,7 @@ export default function Layout( { children, home }) {
       
     }
     <footer>
-    <p>I&apos;m the Footer</p>
+    <p>Welcome to WordPress!</p>
     </footer>
   </div>
   );
